@@ -1,0 +1,52 @@
+name: Fetch latest data
+
+on:
+  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '42 08-16 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        dt=$(date +%Y%m%d)
+        ddir="data/$(date +%Y%m)/$(date +%d)"
+        mkdir -p $ddir
+        curl https://www.smh.com/Home/News-Events/Release/coronavirus-daily-news-update > $ddir/daily-update.html
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.8"
+    - name: Install Python requirements
+      run: |-
+        python -m pip install -U pip
+        pip install -r requirements.txt
+    - name: Convert HTML data to text, json
+      run: |-
+        dt=$(date +%Y%m%d)
+        ddir="data/$(date +%Y%m)/$(date +%d)"
+        python ./convert.py $ddir/daily-update.html
+    - name: Combine JSON
+      run: python ./combine.py      
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Convert data " || exit 0
+        git push  
+        
