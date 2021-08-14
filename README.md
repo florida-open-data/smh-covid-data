@@ -81,7 +81,7 @@ total_test_positive |  Total covid test positive (no duplicate patients)
 ### JSON Data
 
 Complete JSON output available at: 
-https://github.com/florida-open-data/smh-covid-data/smh_data.json
+https://github.com/florida-open-data/smh-covid-data/blob/main/smh_data.json
 
 Raw JSON for web services:
 https://raw.githubusercontent.com/florida-open-data/smh-covid-data/main/smh_data.json
@@ -89,7 +89,7 @@ https://raw.githubusercontent.com/florida-open-data/smh-covid-data/main/smh_data
 ### CSV Data
 
 Complete CSV output available at: 
-https://github.com/florida-open-data/smh-covid-data/smh_data.csv
+https://github.com/florida-open-data/smh-covid-data/blob/main/smh_data.csv
 
 Raw CSV for web services:
 https://raw.githubusercontent.com/florida-open-data/smh-covid-data/main/smh_data.csv
