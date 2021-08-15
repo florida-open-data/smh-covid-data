@@ -3,6 +3,12 @@
 Sarasota Memorial Hospital Covid-19 Data
 Located in Sarasota County, Florida USA
 
+### Status
+
+[![Fetch latest data](https://github.com/florida-open-data/smh-covid-data/actions/workflows/scheduled.yml/badge.svg)](https://github.com/florida-open-data/smh-covid-data/actions/workflows/scheduled.yml)
+
+
+### About
 This is an unofficial repository of historical data downloaded from
 Sarasota Memorial Hospital Covid-19 information page.
 https://www.smh.com/Home/News-Events/Release/coronavirus-daily-news-update
