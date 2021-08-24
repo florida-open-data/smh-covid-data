@@ -1,0 +1,20 @@
+info_date: 2021-08-23T00:00:00Sarasota Memorial continues to monitor COVID-19 indicators and issues in our community and region. We are working closely with public health officials to identify and report important data trends in our health system. Please note that the information on this page is updated daily, Monday - Friday (except holidays). Here is today’s summary:
+Today’s patient census: 787
+Today's COVID-positive patients total: 274 (284 yesterday)
+Today’s ICU census: 80 (86 yesterday)
+COVID-positive patients in ICU today: 48 (56 yesterday)
+% Unvaccinated COVID-positive patients in the hospital: 90%*
+Total hospital beds: 839
+ICU bed capacity: 97
+SMH has a team of clinicians — ICU doctors, nurses and hospital leaders — who monitor our census and public health indicators to determine if and when we need to increase ICU capacity.
+* Estimate based on vaccination status shared by patients or validated by an official source; this information is updated on Mondays and Thursdays.
+7-Day SMH positivity rate: 19.1% (18.9% for week ending Aug. 20, 2021)
+Patients who have tested positive (excludes repeat positives): 6,196 **
+Patients who have tested negative: 100,185 **
+** Reflects patients tested through SMH systems since March 2, 2020.
+Patients hospitalized since outbreak began: 3,725 (3,685 yesterday)
+Patients treated/discharged: 4,448 (4,382 yesterday) {outpatients treated in the ER but not hospitalized and inpatients who have been treated and discharged or cleared by infection control but not yet discharged}
+Patient deaths: 322 (318 yesterday)
+*** Reflects total number of patients treated at SMH since outbreak began in March 2020.
+For more information, please click here to visit our dedicated COVID-19 webpage.
+Please email news@smh.com for media inquiries; for urgent requests, call 941-893-7649.
