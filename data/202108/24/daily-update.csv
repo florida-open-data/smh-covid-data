@@ -1,2 +1,2 @@
 total_patient,total_patient_today,total_patient_yesterday,total_icu_today,total_icu_yesterday,covid_icu_today,covid_icu_yesterday,percent_unvaccinated,total_beds,total_icu_beds,positivity_rate,positivity_rate_last_week,total_test_positive,total_test_negative,since_date,cumm_patient_today,cumm_patient_yesterday,cumm_patient_discharged_today,cumm_patient_discharged_yesterday,info_date
-787.0,274.0,284.0,80.0,86.0,48.0,56.0,90.0,839.0,97.0,19.1,18.9,6196.0,100185.0,Reflects patients tested through SMH systems since March 2 2020,3725.0,3685.0,4448.0,4382.0,2021-08-23T00:00:00
+808.0,278.0,274.0,86.0,80.0,52.0,48.0,90.0,839.0,97.0,19.0,18.9,6289.0,100637.0,Reflects patients tested through SMH systems since March 2 2020,3771.0,3725.0,4510.0,4448.0,2021-08-24T00:00:00
