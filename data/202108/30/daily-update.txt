@@ -6,8 +6,8 @@ COVID-positive patients in ICU today: 68 (69 yesterday)
 % Unvaccinated COVID-positive patients in the hospital: 82%*
 Total hospital beds: 839
 ICU bed capacity: 114
-SMH has a team of clinicians — ICU doctors, nurses and hospital leaders — who monitor our census and public health indicators to determine if and when we need to increase ICU capacity.
 * Estimate based on vaccination status shared by patients or validated by an official source; this information is updated on Mondays and Thursdays.
+SMH has a team of clinicians — ICU doctors, nurses and hospital leaders — who monitor our census and public health indicators to determine if and when we need to increase ICU capacity.
 7-Day SMH positivity rate: 16.9% (17.9% for week ending Aug. 27, 2021)
 Patients who have tested positive (excludes repeat positives): 6,738 **
 Patients who have tested negative: 102,828 **
