@@ -3,7 +3,7 @@ Today’s patient census: 818
 Today's COVID-positive patients total: 277 (291 yesterday)
 Today’s ICU census: 110 (106 yesterday)
 COVID-positive patients in ICU today: 68 (69 yesterday)
-% Unvaccinated COVID-positive patients in the hospital: 82%*
+% Unvaccinated COVID-positive patients in the hospital: 83%*
 Total hospital beds: 839
 ICU bed capacity: 114
 * Estimate based on vaccination status shared by patients or validated by an official source; this information is updated on Mondays and Thursdays.
