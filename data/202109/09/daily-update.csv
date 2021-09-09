@@ -1,2 +1,2 @@
-total_patient,total_icu_today,total_beds,total_icu_beds,positivity_rate,positivity_rate_last_week,total_test_positive,total_test_negative,since_date,cumm_patient_today,cumm_patient_yesterday,cumm_patient_discharged_today,info_date
-796.0,103.0,839.0,116.0,14.4,16.6,7240.0,105693.0,Reflects patients tested through SMH systems since March 2 2020,4266.0,4241.0,5229.0,2021-09-08T00:00:00
+total_patient,total_icu_today,total_icu_yesterday,total_beds,total_icu_beds,positivity_rate,positivity_rate_last_week,total_test_positive,total_test_negative,since_date,cumm_patient_today,cumm_patient_yesterday,info_date
+785.0,96.0,103.0,839.0,116.0,13.5,16.6,7289.0,106090.0,Reflects patients tested through SMH systems since March 2 2020,4295.0,4266.0,2021-09-09T00:00:00
