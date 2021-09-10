@@ -1,27 +1,27 @@
-info_date: 2021-09-09T00:00:00Sarasota Memorial continues to monitor COVID-19 indicators and issues in our community and region. We are working closely with public health officials to identify and report important data trends in our health system. Please note that the information on this page is updated daily, Monday - Friday (except holidays).
+info_date: 2021-09-10T00:00:00Sarasota Memorial continues to monitor COVID-19 indicators and issues in our community and region. We are working closely with public health officials to identify and report important data trends in our health system. Please note that the information on this page is updated daily, Monday - Friday (except holidays).
 Note that SMH has changed how we display the COVID-19 patient data below (effective Sept. 8, 2021).
 Now, in addition to the COVID-positive patients currently hospitalized, the "COVID Patients Total" also includes those who have cleared the infectious stage, based on CDC and hospital guidelines. While these patients are no longer considered COVID-positive or infectious, many have serious medical issues complicating their recovery or discharge. Previously, when COVID patients cleared the infectious stage, SMH moved them from the daily COVID-positive patient category to the cumulative number of "Patients Treated/Discharged."
 This change reflects the increasing number of COVID patients who remain hospitalized for weeks or even months due to lung damage, renal failure or other medical issues preventing a safe discharge, and their impact on our hospital census and capacity.
 Here is today’s summary:
-Today’s patient census: 785
-Today's COVID patients total: 246 (250 yesterday)
-Includes 49 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
-Today’s ICU census: 96 (103 yesterday)
-COVID patients in ICU today: 72 (76 yesterday)
+Today’s patient census: 788
+Today's COVID patients total: 242 (246 yesterday)
+Includes 48 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
+Today’s ICU census: 99 (96 yesterday)
+COVID patients in ICU today: 73 (72 yesterday)
 Includes 17 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
 % Unvaccinated COVID patients in the hospital: 85%
 Estimate based on vaccination status shared by patients or validated by an official source; this information is updated on Mondays and Thursdays.
 Total hospital beds: 839
 ICU bed capacity: 116
 SMH has a team of clinicians — ICU doctors, nurses and hospital leaders — who monitor our census and public health indicators to determine if and when we need to increase ICU capacity.
-7-Day SMH positivity rate: 13.5% (16.6% for week ending Sept. 3, 2021)
-Patients who have tested positive (excludes repeat positives): 7,289 *
-Patients who have tested negative: 106,090 *
+7-Day SMH positivity rate: 13.1% (16.6% for week ending Sept. 3, 2021)
+Patients who have tested positive (excludes repeat positives): 7,325 *
+Patients who have tested negative: 106,416 *
 * Reflects patients tested through SMH systems since March 2, 2020.
 Reflects total number of COVID patients treated at SMH since outbreak began in March 2020.
-Patients hospitalized since outbreak began: 4,295 (4,266 yesterday)
-Patients discharged since outbreak began: 5,318 (5,229 yesterday) 
+Patients hospitalized since outbreak began: 4,320 (4,295 yesterday)
+Patients discharged since outbreak began: 5,352 (5,318 yesterday) 
 Includes inpatients discharged from the hospital and outpatients treated and released from the ER.
-Patient deaths: 392 (385 yesterday)
+Patient deaths: 396 (392 yesterday)
 For more information, click here to visit our dedicated COVID-19 webpage.
 Please email news@smh.com for media inquiries; for urgent requests, call 941-893-7649.
