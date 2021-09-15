@@ -19,6 +19,8 @@ def write_csv():
     newlist = sorted(full, key=lambda k: k['info_date']) 
     ks = list(newlist[3].keys())
     ks.append('percent_unvaccinated')
+    ks.append('cumm_deaths_today')
+    ks.append('cumm_deaths_yesterday')
     print("csv keys: ", len(ks))
     print("csv key fieldnames: ", str(ks))
     print("csv key last: ", str(newlist[3]))

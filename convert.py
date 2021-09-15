@@ -119,21 +119,28 @@ def get_rate(r):
 
 
 # pattern, func, [schema fields, ...]
+# Sep8: "COVID-positive patients total" became "COVID patients total", and "COVID-positive patients in ICU" became "COVID patients in ICU"
+# Sep8: "Unvaccinated COVID-positive patients in the hospital" became "Unvaccinated COVID patients in the hospital"
+# this was to reflect non-infectious patients still in hospital due to covid (see comments in source page HTML)
 mapping = [
     {'p':"s patient census", 'f':get_one, 's':['total_patient'] },
+    {'p':"COVID patients total", 'f':get_two, 's':['total_patient_today','total_patient_yesterday'] },
     {'p':"COVID-positive patients total", 'f':get_two, 's':['total_patient_today','total_patient_yesterday'] },
     {'p':"s ICU census", 'f':get_two, 's':['total_icu_today','total_icu_yesterday'] },
     {'p':"COVID-positive patients in ICU", 'f':get_two, 's':['covid_icu_today','covid_icu_yesterday'] },
+    {'p':"COVID patients in ICU", 'f':get_two, 's':['covid_icu_today','covid_icu_yesterday'] },
     {'p':"Total hospital beds", 'f':get_one, 's':['total_beds'] },
     {'p':"ICU bed capacity", 'f':get_one, 's':['total_icu_beds'] },
     {'p':"7-Day SMH positivity rate", 'f':get_rate, 's':['positivity_rate','positivity_rate_last_week'] },
     {'p':"Unvaccinated COVID-positive patients in the hospital", 'f':get_one, 's':['percent_unvaccinated'] },
+    {'p':"Unvaccinated COVID patients in the hospital", 'f':get_one, 's':['percent_unvaccinated'] },
     {'p':"Patients who have tested positive", 'f':get_one, 's':['total_test_positive'] },
     {'p':"Patients who have tested negative", 'f':get_one, 's':['total_test_negative'] },
     {'p':"through SMH systems since", 'f':get_clean, 's':['since_date'] },
     {'p':"hospitalized since outbreak began", 'f':get_two, 's':['cumm_patient_today','cumm_patient_yesterday'] },
     {'p':"Patients treated/discharged", 'f':get_two, 's':['cumm_patient_discharged_today','cumm_patient_discharged_yesterday'] },
     {'p':"Total hospital beds", 'f':get_one, 's':['total_beds'] },
+    {'p':"Patient deaths", 'f':get_two, 's':['cumm_deaths_today','cumm_deaths_yesterday'] },
 ]
 
 #
