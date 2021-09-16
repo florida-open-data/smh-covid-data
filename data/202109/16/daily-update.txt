@@ -6,7 +6,7 @@ Today’s ICU census: 86 (88 yesterday)
 COVID patients in ICU today: 64 (63 yesterday)
 Includes 21 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
 % Unvaccinated COVID patients in the hospital: 84%
-Estimate based on vaccination status shared by patients or validated by an official source; this information is updated weekly on Wednesdays.
+Estimate based on vaccination status shared by patients or validated by an official source; this information is updated weekly on Wednesdays, as is the vaccination-rate infographic above.
 Total hospital beds: 839
 ICU bed capacity: 100
 SMH has a team of clinicians — ICU doctors, nurses and hospital leaders — who monitor our census and public health indicators to determine if and when we need to increase ICU capacity.
