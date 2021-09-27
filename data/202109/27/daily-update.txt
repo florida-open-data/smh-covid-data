@@ -1,10 +1,10 @@
 info_date: 2021-09-27T00:00:00Sarasota Memorial continues to monitor COVID-19 indicators and issues in our community and region. We are working closely with public health officials to identify and report important data trends in our health system. Please note that the information on this page is updated daily, Monday - Friday (except holidays). Here is today’s summary:
 Today’s patient census: 691
-Today's COVID patients total: 137 (143 yesterday)
-Includes 45 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
-Today’s ICU census: 129 (134 yesterday)
+Today's COVID patients total: 129 (134 yesterday)
+Includes 41 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
+Today’s ICU census: 90 (85 yesterday)
 COVID patients in ICU today: 57 (54 yesterday)
-Includes 20 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
+Includes 21 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
 % Unvaccinated COVID patients in the hospital: 83%
 Estimate based on vaccination status shared by patients or validated by an official source; this information is updated weekly on Wednesdays, as is the vaccination-rate infographic above.
 Total hospital beds: 839
