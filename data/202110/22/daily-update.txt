@@ -1,23 +1,23 @@
-info_date: 2021-10-21T00:00:00Sarasota Memorial continues to monitor COVID-19 indicators and issues in our community and region. We are working closely with public health officials to identify and report important data trends in our health system. Please note that the information on this page is updated daily, Monday - Friday (except holidays). Here is today’s summary:
-Today’s patient census: 738
-Today's COVID patients total: 41 (42 yesterday)
-Includes 24 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
-Today’s ICU census: 59 (no change from yesterday)
-COVID patients in ICU today: 20 (21 yesterday)
+info_date: 2021-10-22T00:00:00Sarasota Memorial continues to monitor COVID-19 indicators and issues in our community and region. We are working closely with public health officials to identify and report important data trends in our health system. Please note that the information on this page is updated daily, Monday - Friday (except holidays). Here is today’s summary:
+Today’s patient census: 706
+Today's COVID patients total: 36 (41 yesterday)
+Includes 22 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
+Today’s ICU census: 58 (59 yesterday)
+COVID patients in ICU today: 18 (20 yesterday)
 Includes 13 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
 % Unvaccinated COVID patients in the hospital: 88%
 Estimate based on vaccination status shared by patients or validated by an official source; this information is updated weekly on Wednesdays.
 Total hospital beds: 839
 ICU bed capacity: 72
 SMH has a team of clinicians — ICU doctors, nurses and hospital leaders — who monitor our census and public health indicators to determine if and when we need to increase ICU capacity.
-7-Day SMH positivity rate: 1.9% (2.1% for week ending Oct. 8, 2021)
-Patients who have tested positive (excludes repeat positives): 7,876 *
-Patients who have tested negative: 118,391 *
+7-Day SMH positivity rate: 1.8% (2.1% for week ending Oct. 8, 2021)
+Patients who have tested positive (excludes repeat positives): 7,879 *
+Patients who have tested negative: 118,633 *
 * Reflects patients tested through SMH systems since March 2, 2020.
 Reflects total number of COVID patients treated at SMH since outbreak began in March 2020.
-Patients hospitalized since outbreak began: 4,663 (4,660 yesterday)
-Patients discharged since outbreak began: 5,952 (5,948 yesterday) 
+Patients hospitalized since outbreak began: 4,664 (4,663 yesterday)
+Patients discharged since outbreak began: 5,954 (5,952 yesterday) 
 Includes inpatients discharged from the hospital and outpatients treated and released from the ER.
-Patient deaths: 511 (510 yesterday)
+Patient deaths: 513 (511 yesterday)
 For more information, click here to visit our dedicated COVID-19 webpage.
 Please email news@smh.com for media inquiries; for urgent requests, call 941-893-7649.

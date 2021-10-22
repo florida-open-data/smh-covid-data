@@ -286,4 +286,4 @@ total_test_negative,since_date,total_icu_yesterday,total_patient,covid_icu_today
 117781.0,Reflects patients tested through SMH systems since March 2 2020,63.0,746.0,23.0,44.0,25.0,2.1,55.0,4657.0,71.0,2021-10-19 00:00:00,7861.0,4654.0,,51.0,,2.0,839.0,84.0,508.0,505.0
 118112.0,Reflects patients tested through SMH systems since March 2 2020,55.0,792.0,21.0,42.0,23.0,2.1,59.0,4660.0,72.0,2021-10-20 00:00:00,7871.0,4657.0,,44.0,,2.1,839.0,88.0,510.0,508.0
 118391.0,Reflects patients tested through SMH systems since March 2 2020,,738.0,20.0,41.0,21.0,2.1,59.0,4663.0,72.0,2021-10-21 00:00:00,7876.0,4660.0,,42.0,,1.9,839.0,88.0,511.0,510.0
-118391.0,Reflects patients tested through SMH systems since March 2 2020,,738.0,20.0,41.0,21.0,2.1,59.0,4663.0,72.0,2021-10-21 00:00:00,7876.0,4660.0,,42.0,,1.9,839.0,88.0,511.0,510.0
+118633.0,Reflects patients tested through SMH systems since March 2 2020,59.0,706.0,18.0,36.0,20.0,2.1,58.0,4664.0,72.0,2021-10-22 00:00:00,7879.0,4663.0,,41.0,,1.8,839.0,88.0,513.0,511.0
