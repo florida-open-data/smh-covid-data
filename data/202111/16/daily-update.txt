@@ -1,23 +1,11 @@
-info_date: 2021-11-15T00:00:00Sarasota Memorial continues to monitor COVID-19 indicators and issues in our community and region. We are working closely with public health officials to identify and report important data trends in our health system. Please note that the information on this page is updated daily, Monday - Friday (except holidays). Here is today’s summary:
-Today’s patient census: 633
-Today's COVID patients total: 16 (17 yesterday)
-Includes 9 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
-Today’s ICU census: 45 (51 yesterday)
-COVID patients in ICU today: 7 (no change from yesterday)
-Includes 4 COVID patients cleared of infection but still hospitalized due to complications delaying recovery/discharge.
-% Unvaccinated COVID patients in the hospital: 79%
-Estimate based on vaccination status shared by patients or validated by an official source; this information is updated weekly on Wednesdays.
-Total hospital beds: 839
-ICU bed capacity: 62
-SMH has a team of clinicians — ICU doctors, nurses and hospital leaders — who monitor our census and public health indicators to determine if and when we need to increase ICU capacity.
-7-Day SMH positivity rate: 1.2% (1.7% for week ending Nov. 12, 2021)
-Patients who have tested positive (excludes repeat positives): 7,997 *
-Patients who have tested negative: 125,962 *
-* Reflects patients tested through SMH systems since March 2, 2020.
-Reflects total number of COVID patients treated at SMH since outbreak began in March 2020.
-Patients hospitalized since outbreak began: 4,698 (no change from yesterday)
-Patients discharged since outbreak began: 6,009 (6,008 yesterday) 
-Includes inpatients discharged from the hospital and outpatients treated and released from the ER.
-Patient deaths: 524 (no change from yesterday)
+info_date: 2021-11-16T00:00:00Please note that the information on this page is updated daily, Monday - Friday (except holidays).
+Includes hospitalized patients who are positive for COVID-19 and those cleared of infection but still hospitalized at SMH facilities.
+Total COVID inpatients today: 18 (16 yesterday)
+COVID patients in ICU: 6 (7 yesterday)
+% Unvaccinated Inpatients: 79% (updated weekly on Wednesdays)
+SMH positivity rate: 1.1% (1.7% for week ending Nov. 12, 2021)
+Total number of patients treated since outbreak began.
+Patient admissions: 4,700 (4,698 yesterday)
+Patient deaths: 524 (no change from yesterday)
 For more information, click here to visit our dedicated COVID-19 webpage.
-Please email news@smh.com for media inquiries; for urgent requests, call 941-893-7649.
+Please email news@smh.com for media inquiries.
