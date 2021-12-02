@@ -1,2 +1,2 @@
-covid_icu_today,covid_icu_yesterday,cumm_deaths_today,info_date
-5.0,4.0,525.0,2021-12-01T00:00:00
+covid_icu_today,cumm_deaths_today,info_date
+5.0,525.0,2021-12-02T00:00:00
