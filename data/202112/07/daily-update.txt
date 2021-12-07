@@ -1,11 +1,11 @@
-info_date: 2021-12-06T00:00:00Please note that the information on this page is updated daily, Monday - Friday (except holidays).
+info_date: 2021-12-07T00:00:00Please note that the information on this page is updated daily, Monday - Friday (except holidays).
 Includes hospitalized patients who are positive for COVID-19 and those cleared of infection but still hospitalized at SMH facilities.
-Total COVID inpatients today: 17 (21 yesterday)
-COVID patients in ICU: 4 (5 yesterday)
+Total COVID inpatients today: 20 (17 yesterday)
+COVID patients in ICU: 4 (no change from yesterday)
 % Unvaccinated Inpatients: 74% (updated weekly on Wednesdays)
-SMH positivity rate: 2.1% (2% for week ending Dec. 3, 2021)
+SMH positivity rate: 1.8% (2% for week ending Dec. 3, 2021)
 Total number of patients treated since outbreak began.
-Patient admissions: 4,742 (4,740 yesterday)
-Patient deaths: 528 (527 yesterday)
+Patient admissions: 4,746 (4,742 yesterday)
+Patient deaths: 528 (no change from yesterday)
 For more information, click here to visit our dedicated COVID-19 webpage.
 Email media inquiries to news@smh.com.
