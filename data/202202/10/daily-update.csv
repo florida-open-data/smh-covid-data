@@ -1,2 +1,2 @@
-covid_icu_today,cumm_deaths_today,info_date
-22.0,609.0,2022-02-09T00:00:00
+covid_icu_today,covid_icu_yesterday,cumm_deaths_today,cumm_deaths_yesterday,info_date
+21.0,22.0,612.0,609.0,2022-02-10T00:00:00
