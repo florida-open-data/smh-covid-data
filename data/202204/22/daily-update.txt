@@ -1,4 +1,4 @@
-info_date: 2022-04-21T00:00:00Please note that the information on this page is updated daily, Monday - Friday, except holidays.
+info_date: 2022-04-22T00:00:00Please note that the information on this page is updated daily, Monday - Friday, except holidays.
 Our daily COVID-19 patient report combines data from both Sarasota Memorial Hospital-Sarasota Campus and SMH-Venice. Although both hospitals have seen patient-volume increases, they are operating at normal capacity at this time and are effectively managing the current COVID surge.
 Includes hospitalized patients who are positive for COVID-19 and those cleared of infection but still hospitalized at SMH facilities.
 Total COVID inpatients today: 11 (18 yesterday)
