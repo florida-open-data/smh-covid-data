@@ -1,13 +1,13 @@
-info_date: 2022-08-22T00:00:00Please note that the information on this page is updated daily, Monday - Friday, except holidays.
+info_date: 2022-08-23T00:00:00Please note that the information on this page is updated daily, Monday - Friday, except holidays.
 Our daily COVID-19 patient report combines data from both Sarasota Memorial Hospital-Sarasota Campus and SMH-Venice. Although both hospitals have seen patient-volume increases, they are operating at normal capacity at this time and are effectively managing the current COVID surge.
 Includes hospitalized patients who are positive for COVID-19 and those cleared of infection but still hospitalized at SMH facilities.
-Total COVID inpatients today: 63 (61 yesterday)
-COVID patients in ICU: 4 (3 yesterday)
+Total COVID inpatients today: 63 (63 yesterday)
+COVID patients in ICU: 6 (4 yesterday)
 % Unvaccinated Inpatients*: 64% (updated weekly on Wednesdays)
 * We categorize patients as “vaccinated” once they have received the required primary dose(s) of a COVID-19 vaccine and 2 weeks have passed since the final dose. At this time, we do not require that patients have booster doses to be categorized as fully vaccinated. An increase in infections among vaccinated people is expected as the Omicron variant spreads and immunity wanes among those who are high-risk and those who have not yet gotten a booster dose. COVID-19 vaccinations and booster shots are still the most effective method in preventing severe illness and hospitalization.
-SMH positivity rate: 11.4% (12.3% for week ending August 20, 2022)
+SMH positivity rate: 11.1% (12.3% for week ending August 20, 2022)
 Total number of patients treated since outbreak began.
-Patient admissions: 8,044 (8,035 yesterday)
-Patient deaths: 704 (703 yesterday)
+Patient admissions: 8,055 (8,044 yesterday)
+Patient deaths: 704 (704 yesterday)
 For more information, click here to visit our dedicated COVID-19 webpage.
 Email media inquiries to news@smh.com.
