@@ -1,11 +1,11 @@
-info_date: 2022-10-20T00:00:00Please note that the information on this page is updated daily, Monday - Friday, except holidays.
+info_date: 2022-10-21T00:00:00Please note that the information on this page is updated daily, Monday - Friday, except holidays.
 Includes hospitalized patients who are positive for COVID-19 and those cleared of infection but still hospitalized at SMH facilities.
-Total COVID inpatients today: 43 (41 yesterday)
-COVID patients in ICU: 8 (5 yesterday)
-SMH positivity rate: 4.9% (4% for week ending Oct. 14, 2022)
+Total COVID inpatients today: 44 (43 yesterday)
+COVID patients in ICU: 6 (8 yesterday)
+SMH positivity rate: 5.4% (4% for week ending Oct. 14, 2022)
 Total number of patients treated since outbreak began.
-Patient admissions: 8,492 (8,483 yesterday)
-Patient deaths: 723 (722 yesterday)
+Patient admissions: 8,498 (8,492 yesterday)
+Patient deaths: 724 (723 yesterday)
 For more information, click here to visit our dedicated COVID-19 webpage.
 Email media inquiries to news@smh.com.
-*Last updated 10/20/22
+*Last updated 10/21/22
