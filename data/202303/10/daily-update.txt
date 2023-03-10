@@ -1,11 +1,11 @@
-info_date: 2023-03-09T00:00:00Please note that the information on this page is updated daily, Monday - Friday, except holidays.
+info_date: 2023-03-10T00:00:00Please note that the information on this page is updated daily, Monday - Friday, except holidays.
 Includes hospitalized patients who are positive for COVID-19 and those cleared of infection but still hospitalized at SMH facilities.
-Total COVID inpatients today: 38 (39 yesterday)
-COVID patients in ICU: 1 (1 yesterday)
-SMH positivity rate: 7% (6.7% for week ending March 3, 2023)
+Total COVID inpatients today: 38 (38 yesterday)
+COVID patients in ICU: 2 (1 yesterday)
+SMH positivity rate: 7.8% (6.7% for week ending March 3, 2023)
 Total number of patients treated since outbreak began.
-Patient admissions: 9,754 (9,744 yesterday)
+Patient admissions: 9,765 (9,754 yesterday)
 Patient deaths: 768 (768 yesterday)
 For more information, click here to visit our dedicated COVID-19 webpage.
 Email media inquiries to news@smh.com.
-*Last updated 3/9/23
+*Last updated 3/10/23
