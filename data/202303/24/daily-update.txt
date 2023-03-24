@@ -1,0 +1,10 @@
+info_date: 2023-03-23T00:00:00Note: As the COVID pandemic enters a new phase with the end of the nation’s public health emergency in early May, Sarasota Memorial plans to stop posting daily updates to its Coronavirus News Update webpage after Friday, March 24, 2023. SMH will continue to track the number of patients who are hospitalized for COVID and other clinical indicators that help monitor community spread. If SMH detects signs of a future surge or begins to experience capacity concerns due to COVID, we will once again begin sharing important community updates on our news webpage (smh.com/news).
+Includes hospitalized patients who are positive for COVID-19 and those cleared of infection but still hospitalized at SMH facilities.
+Total COVID inpatients today: 37 (42 yesterday)
+COVID patients in ICU: 4 (2 yesterday)
+SMH positivity rate: 7.6% (7.8% for week ending March 17, 2023)
+Total number of patients treated since outbreak began.
+Patient admissions: 9,867 (9,862 yesterday)
+Patient deaths: 769 (769 yesterday)
+For more information, click here to visit our dedicated COVID-19 webpage.
+Email media inquiries to news@smh.com.
